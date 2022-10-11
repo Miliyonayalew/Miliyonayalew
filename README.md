@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://miliyonayalew.github.io/Portfolio/](https://miliyonayalew.github.io/Portfolio/)
 
-- 💬 Ask me about **HTM/CSS/JavaScript**
+- 💬 Ask me about **HTML5/CSS3/JavaScript**
 
 - 📫 How to reach me **miliayalew@gmail.com**
 
