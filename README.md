@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/milaayalew" target="blank"><img src="https://img.shields.io/twitter/follow/milaayalew?logo=twitter&style=for-the-badge" alt="milaayalew" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux, Ruby**
+- 🌱 I’m currently learning **React, Redux, Ruby, Rails**
 
 - 👨‍💻 All of my projects are available at [https://miliyonayalew.github.io/Portfolio/](https://miliyonayalew.github.io/Portfolio/)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/miliyon-ayalew-210808131/](https://www.linkedin.com/in/miliyon-ayalew-210808131/)
 
-- ⚡ Fun fact **Football fun**
+- ⚡ Fun fact **Football fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
