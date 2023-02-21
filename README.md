@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **HTML5/CSS3/JavaScript**
 
-- 📫 How to reach me **[Miliyon Ayalew](https://www.linkedin.com/in/miliyon-ayalew/)**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/miliyon-ayalew/)**
 
-- 📄 Know about my experiences [Exprience]([https://www.linkedin.com/in/miliyon-ayalew/])
+- 📄 Know about my experiences [Exprience](https://www.linkedin.com/in/miliyon-ayalew/)
 
 - ⚡ Fun fact **Football fan**
 
