@@ -4,17 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miliyonayalew&label=Profile%20views&color=0e75b6&style=flat" alt="miliyonayalew" /> </p>
 
 <h3 align="left">About Me</h3>
-- 🌱 I’m currently learning **React, Redux, Ruby, Rails**
+ 🌱 I’m currently learning **React, Redux, Ruby, Rails**
 
-- 👨‍💻 All of my projects are available at [https://miliyonayalew.github.io/Portfolio/](https://miliyonayalew.github.io/Portfolio/)
+ 👨‍💻 All of my projects are available at [Portfolio](https://miliyonayalew.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML5/CSS3/JavaScript**
+ 💬 Ask me about **HTML5/CSS3/JavaScript**
 
-- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/miliyon-ayalew/)**
+ 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/miliyon-ayalew/)**
 
-- 📄 Know about my experiences [Exprience](https://www.linkedin.com/in/miliyon-ayalew/)
+ 📄 Know about my experiences [Exprience](https://www.linkedin.com/in/miliyon-ayalew/)
 
-- ⚡ Fun fact **Football fan**
+ ⚡ Fun fact **Football fan**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -31,5 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miliyonayalew&show_icons=true&locale=en&theme=radical" alt="miliyonayalew" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miliyonayalew&show_icons=true&theme=radical" alt="miliyonayalew" /></p>
-
+<h3 align="left"> 📊 GitHub Trophies </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miliyonayalew" alt="miliyonayalew" /></a> </p>
