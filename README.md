@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miliyonayalew&label=Profile%20views&color=0e75b6&style=flat" alt="miliyonayalew" /> </p>
 
-<h3 align="left">About Me</h3>
  🌱 I’m currently learning **React, Redux, Ruby, Rails**
 
  👨‍💻 All of my projects are available at [Portfolio](https://miliyonayalew.github.io/Portfolio/)
