@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miliyonayalew&label=Profile%20views&color=0e75b6&style=flat" alt="miliyonayalew" /> </p>
- 🌱 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
+
+🌱 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
+
 
  👨‍💻 Some of my projects are available at [Portfolio](https://miliyonayalew.github.io/Portfolio/)
 
