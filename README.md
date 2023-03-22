@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miliyonayalew&label=Profile%20views&color=0e75b6&style=flat" alt="miliyonayalew" /> </p>
 
- 🌱 I’m currently learning **React, Redux, Ruby, Rails**
+ 🌱 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 
- 👨‍💻 All of my projects are available at [Portfolio](https://miliyonayalew.github.io/Portfolio/)
+ 👨‍💻 Some of my projects are available at [Portfolio](https://miliyonayalew.github.io/Portfolio/)
 
- 💬 Ask me about **HTML5/CSS3/JavaScript**
+ 💬 Ask me about **HTML5, CSS3, JavaScript**
 
  📫 How to reach me **[Linkedin](https://www.linkedin.com/in/miliyon-ayalew/)**
-
- 📄 Know about my experiences [Exprience](https://www.linkedin.com/in/miliyon-ayalew/)
 
  ⚡ Fun fact **Football fan**
 
@@ -30,5 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miliyonayalew&show_icons=true&locale=en&theme=radical" alt="miliyonayalew" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miliyonayalew&show_icons=true&theme=radical" alt="miliyonayalew" /></p>
-<h3 align="left"> 📊 GitHub Trophies </h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miliyonayalew" alt="miliyonayalew" /></a> </p>
+<h3 align="left">🏆 GitHub Trophies </h3>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=miliyonayalew&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
