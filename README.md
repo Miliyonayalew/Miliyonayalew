@@ -6,7 +6,7 @@
 - 🌱  I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects.
 
 
-- 👨‍💻 Some of my projects are available at [Portfolio](https://miliyonayalew.github.io/Portfolio/)
+- 👨‍💻 Some of my projects are available at [Portfolio](https://miliyon-ayalew.netlify.app/)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
 
