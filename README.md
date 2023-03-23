@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miliyonayalew&label=Profile%20views&color=0e75b6&style=flat" alt="miliyonayalew" /> </p>
 
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 - 🌱  I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects.
 
 
@@ -13,6 +14,7 @@
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/miliyon-ayalew/)**
 
 - ⚡ Fun fact **Football fan**
+
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
